@@ -1,0 +1,56 @@
+﻿"Distributions of household economic accounts, income, consumption and saving, Canada, provinces and territories, annual (x 1,000,000)"
+"Frequency: Annual"
+"Table: 36-10-0588-01 (formerly CANSIM 378-0153)"
+"Release date: 2023-03-31"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Ontario 1",,,,,,,,,,,
+,"Statistics","Value",,,,,,,,,,,
+"Characteristics","Income, consumption and savings","2017","Symbol","2018","Symbol","2019","Symbol","2020","Symbol","2021","Symbol","2022","Symbol"
+,,"Dollars",,,,,,,,,,,
+"All households","Household disposable income","457,842","","477,970","","499,270","","545,724","","568,267","","602,454",""
+,"Compensation of employees","418,898","","445,885","","464,075","","463,841","","506,817","","561,909",""
+,"Net mixed income","69,078","","71,478","","76,718","","75,579","","80,230","","87,575",""
+,"Property income received","79,247","","80,380","","87,401","","85,761","","88,086","","99,033",""
+,"Less: property income paid","25,721","","30,259","","35,130","","32,723","","30,871","","39,358",""
+,"Current transfers received","120,877","","125,316","","129,548","","180,769","","169,392","","161,542",""
+,"Less: current transfers paid","204,537","","214,830","","223,342","","227,504","","245,387","","268,247",""
+,"Social transfers in kind (STiK)","122,673","","127,972","","132,025","","139,217","","150,169","","160,632",""
+,"Social transfers in kind (STiK): education","38,411","","40,344","","41,560","","44,364","","42,543","","46,075",""
+,"Social transfers in kind (STiK): health","57,555","","58,906","","60,917","","64,030","","77,210","","82,082",""
+,"Social transfers in kind (STiK): other","26,708","","28,722","","29,548","","30,824","","30,416","","32,475",""
+,"Adjusted household disposable income","580,515","","605,942","","631,295","","684,941","","718,436","","763,086",""
+,"Household final consumption expenditure (HFCE)","474,576","","497,090","","516,075","","470,560","","500,736","","557,512",""
+,"Food and non-alcoholic beverages","41,620","","42,503","","44,408","","47,646","","47,466","","50,611",""
+,"Alcoholic beverages and tobacco","15,734","","16,983","","17,005","","17,112","","16,942","","17,185",""
+,"Clothing and footwear","19,571","","24,757","","25,532","","19,693","","22,623","","26,731",""
+,"Housing, water, electricity, gas and other fuels","109,518","","104,428","","110,465","","111,809","","114,686","","124,533",""
+,"Furnishings, household equipment and other goods and services related to the dwelling and property","25,082","","29,449","","30,697","","31,750","","34,688","","36,210",""
+,"Health","20,294","","19,921","","20,848","","18,636","","20,126","","22,245",""
+,"Transport","76,933","","85,748","","86,581","","64,672","","72,968","","87,283",""
+,"Communications","13,017","","12,690","","13,216","","12,783","","12,721","","13,330",""
+,"Recreation and culture","37,908","","43,470","","44,618","","40,845","","44,161","","49,009",""
+,"Education","10,168","","7,630","","8,057","","7,652","","7,736","","8,313",""
+,"Food, beverage and accommodation services","33,493","","39,033","","40,995","","27,431","","31,689","","41,871",""
+,"Insurance and financial services","45,336","","43,316","","45,070","","44,994","","47,753","","49,643",""
+,"Miscellaneous goods and services","25,902","","27,160","","28,584","","25,536","","27,177","","30,548",""
+,"Social transfers in kind (STiK)","122,673","","127,972","","132,025","","139,217","","150,169","","160,632",""
+,"Social transfers in kind (STiK): education","38,411","","40,344","","41,560","","44,364","","42,543","","46,075",""
+,"Social transfers in kind (STiK): health","57,555","","58,906","","60,917","","64,030","","77,210","","82,082",""
+,"Social transfers in kind (STiK): other","26,708","","28,722","","29,548","","30,824","","30,416","","32,475",""
+,"Household actual final consumption","597,249","","625,062","","648,100","","609,777","","650,905","","718,144",""
+,"Change in pension entitlements","13,526","","13,199","","15,080","","11,738","","12,926","","13,399",""
+,"Household net saving","-3,213","","-5,929","","-1,730","","86,898","","80,455","","58,339",""
+
+
+
+
+Footnotes:
+1,"Totals for Canada and by province/territory may not correspond to the Provincial and territorial economic accounts (PTEA) at certain times of the year, depending on the timing of releases for the Distributions of household economic accounts (DHEA) relative to the PTEA."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0588-01  Distributions of household economic accounts, income, consumption and saving, Canada, provinces and territories, annual (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610058801
