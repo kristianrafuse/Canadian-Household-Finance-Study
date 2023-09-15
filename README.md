@@ -1,6 +1,5 @@
-Canadian Household Finance Study with Pandas and Matplotlib
+Canadian Household Finance Study using Pandas and Matplotlib
 ----------
-
 
 Through the analysis of data provided by Statistics Canada, we can gain insights into the spending habits of Canadian households over the past decade, from 2012 to 2022. This initial analysis was exploratory in nature, aiming to provide insight into Canadian spending. Simply put: “What are Canadians spending their money on?”. Looking at this data can provide Canadians with useful insights into how they spend their money and how their spending habits compare to those of other households in Canada. By understanding the share of expenditures by category, for example, Canadians can get a sense of where their money is going and potentially identify areas where they can cut back on spending or find more cost-effective solutions.
 
